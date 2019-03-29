@@ -1,0 +1,7 @@
+<suite name="ABSA_Selenium_Framework">
+  <test name="Main Driver test">
+    <classes>
+      <class name="testCases.Driver"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

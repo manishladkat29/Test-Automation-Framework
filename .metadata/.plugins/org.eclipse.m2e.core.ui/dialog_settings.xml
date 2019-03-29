@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\bts_africa\RBB\Collections\CBP_Selenium"/>
+			<item value="C:\SeleniumWorkspace"/>
+			<item value="\\vltabcapetf7125\SeleniumWorkspace\Soumya\bts_africa\RBB\BusinessBanking\AOL_Selenium_POC"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+</section>

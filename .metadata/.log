@@ -1,0 +1,265 @@
+!SESSION 2015-08-27 08:48:35.847 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-27 08:49:14.458
+!MESSAGE System property http.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-27 08:49:14.464
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-27 08:49:14.466
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-27 08:49:14.468
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-27 08:49:14.471
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-27 08:49:14.474
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+!SESSION 2015-08-31 20:09:26.399 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:10:03.176
+!MESSAGE System property http.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:10:03.183
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:10:03.187
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:10:03.191
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:10:03.195
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:10:03.199
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+!SESSION 2015-08-31 20:11:50.129 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:12:02.777
+!MESSAGE System property http.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:12:02.784
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:12:02.788
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:12:02.792
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:12:02.797
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-08-31 20:12:02.801
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+!SESSION 2015-09-01 07:51:41.910 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\SeleniumWorkspace\Soumya\bts_africa\RBB\BusinessBanking\AOL_Selenium_POC -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 07:51:48.923
+!MESSAGE System property http.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 07:51:48.929
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 07:51:48.931
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 07:51:48.933
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 07:51:48.935
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 07:51:48.935
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+!SESSION 2015-09-01 08:07:48.719 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\SeleniumWorkspace\Soumya\bts_africa\RBB\BusinessBanking\AOL_Selenium_POC -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 08:07:58.924
+!MESSAGE System property http.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 08:07:58.939
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 08:07:58.939
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 08:07:58.939
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 08:07:58.939
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-01 08:07:58.939
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+!SESSION 2015-09-03 09:48:48.324 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\SeleniumWorkspace\Soumya\bts_africa\RBB\BusinessBanking\AOL_Selenium_POC -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-03 09:48:53.821
+!MESSAGE System property http.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-03 09:48:53.825
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-03 09:48:53.825
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-03 09:48:53.826
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-03 09:48:53.828
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-03 09:48:53.828
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+!SESSION 2015-09-10 12:50:08.437 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\bts_africa\RBB\Digital&Mobile\AOLExpress_Selenium -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 12:50:14.220
+!MESSAGE System property http.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 12:50:14.229
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 12:50:14.232
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 12:50:14.235
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 12:50:14.238
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 12:50:14.239
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+!SESSION 2015-09-10 13:05:45.330 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -data C:\bts_africa\RBB\Digital&Mobile\AOLExpress_Selenium -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 13:05:50.977
+!MESSAGE System property http.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 13:05:50.983
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 13:05:50.985
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 13:05:50.986
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 13:05:50.988
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-10 13:05:50.989
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+!SESSION 2015-09-18 15:35:17.409 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.6.0_45
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.testng.eclipse 4 0 2015-09-18 15:35:20.789
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: org.testng.eclipse [439]
+  Unresolved requirement: Require-Capability: osgi.ee; filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:434)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1582)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1561)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1533)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1476)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-18 15:37:05.953
+!MESSAGE System property http.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-18 15:37:05.957
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-18 15:37:05.957
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-18 15:37:05.958
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-18 15:37:05.960
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-18 15:37:05.960
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+!SESSION 2015-09-23 09:35:36.556 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-23 09:36:14.032
+!MESSAGE System property http.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-23 09:36:14.037
+!MESSAGE System property http.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-23 09:36:14.038
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-23 09:36:14.039
+!MESSAGE System property https.proxyPort is not set but should be 8080.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-23 09:36:14.041
+!MESSAGE System property https.proxyHost is not set but should be 35.56.104.42.
+
+!ENTRY org.eclipse.core.net 1 0 2015-09-23 09:36:14.041
+!MESSAGE System property https.proxyPort is not set but should be 8080.
